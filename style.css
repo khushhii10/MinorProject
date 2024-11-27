@@ -94,11 +94,13 @@ select {
   color: #a2aace;
   font-size: 25px;
   font-weight: 500;
+  margin-top: 5% !important;
   margin-bottom: 20px;
 }
 .question-wrapper .number .total {
   color: #576081;
   font-size: 18px;
+  margin-top: 5% !important;
 }
 .question-wrapper .question {
   color: #fff;
@@ -166,6 +168,7 @@ select {
   font-weight: 500;
   cursor: pointer;
   transition: 0.3s linear;
+  margin-top : 5%!important;
 }
 .btn:hover {
   background: #0a6bc5;
@@ -176,6 +179,7 @@ select {
 }
 .btn.next {
   display: none;
+  margin-top : 5%!important;
 }
 
 .end-screen .score {
